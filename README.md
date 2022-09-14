@@ -1,5 +1,7 @@
 # My Projects and Work
 
+## My LinkedIn: https://www.linkedin.com/in/hardikbachhan/
+
 ### Personal Website using React.js
 
 - link: https://hardikbachhan.netlify.app/
