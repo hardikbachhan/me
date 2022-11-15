@@ -2,6 +2,10 @@
 
 ## My LinkedIn: https://www.linkedin.com/in/hardikbachhan/
 
+### DSA Quesitons (Leetcode, GFG)
+
+- GitHub Repo Link: https://github.com/hardikbachhan/DSA
+
 ### BTree RDBMS
 
 - GitHub Repo Link: https://github.com/hardikbachhan/rdbms
